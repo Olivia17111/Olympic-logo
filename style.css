@@ -1,0 +1,30 @@
+body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+      z-index :8;
+  }
+
+
+
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
+
+
+
+
+
+  
